@@ -1,5 +1,6 @@
 const popularArabMaleNames = [
   "Ali",
+  "Rihab",
   "Muhammad",
   "Ahmed",
   "Omar",
